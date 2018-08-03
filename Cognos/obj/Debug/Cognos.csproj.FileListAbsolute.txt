@@ -1,0 +1,9 @@
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\bin\Debug\Cognos.dll
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\bin\Debug\Cognos.pdb
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\bin\Debug\ExcelDna.Registration.dll
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.csprojAssemblyReference.cache
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.csproj.ResolveComReference.cache
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.csproj.CoreCompileInputs.cache
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.csproj.CopyComplete
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.dll
+C:\Users\karpushkinga\source\repos\Cognos\Cognos\obj\Debug\Cognos.pdb
